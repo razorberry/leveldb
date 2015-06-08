@@ -100,7 +100,6 @@
 		921681C01B259A5C00561211 /* status.cc in Sources */ = {isa = PBXBuildFile; fileRef = 921681711B259A5C00561211 /* status.cc */; };
 		921681C11B259A5C00561211 /* testharness.cc in Sources */ = {isa = PBXBuildFile; fileRef = 921681721B259A5C00561211 /* testharness.cc */; };
 		921681C21B259A5C00561211 /* testharness.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681731B259A5C00561211 /* testharness.h */; };
-		921681C61B259D1B00561211 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 921681C51B259D1B00561211 /* Info.plist */; };
 		921681C81B25B92400561211 /* leveldb.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681C71B25B92400561211 /* leveldb.h */; };
 		921682871B25C1A300561211 /* leveldb_ios_tests.mm in Sources */ = {isa = PBXBuildFile; fileRef = 921682861B25C1A300561211 /* leveldb_ios_tests.mm */; };
 		921682881B25C1A300561211 /* leveldb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9295C9951B2591EA00C388EB /* leveldb.framework */; };
@@ -593,7 +592,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				921681C61B259D1B00561211 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
