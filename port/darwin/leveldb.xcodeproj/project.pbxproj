@@ -39,20 +39,20 @@
 		921681191B259A4200561211 /* write_batch_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 921680ED1B259A4200561211 /* write_batch_internal.h */; };
 		921681761B259A5C00561211 /* memenv.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9216811D1B259A5C00561211 /* memenv.cc */; };
 		921681771B259A5C00561211 /* memenv.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216811E1B259A5C00561211 /* memenv.h */; };
-		921681791B259A5C00561211 /* c.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681221B259A5C00561211 /* c.h */; };
-		9216817A1B259A5C00561211 /* cache.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681231B259A5C00561211 /* cache.h */; };
-		9216817B1B259A5C00561211 /* comparator.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681241B259A5C00561211 /* comparator.h */; };
-		9216817C1B259A5C00561211 /* db.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681251B259A5C00561211 /* db.h */; };
-		9216817D1B259A5C00561211 /* dumpfile.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681261B259A5C00561211 /* dumpfile.h */; };
-		9216817E1B259A5C00561211 /* env.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681271B259A5C00561211 /* env.h */; };
-		9216817F1B259A5C00561211 /* filter_policy.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681281B259A5C00561211 /* filter_policy.h */; };
-		921681801B259A5C00561211 /* iterator.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681291B259A5C00561211 /* iterator.h */; };
-		921681811B259A5C00561211 /* options.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812A1B259A5C00561211 /* options.h */; };
-		921681821B259A5C00561211 /* slice.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812B1B259A5C00561211 /* slice.h */; };
-		921681831B259A5C00561211 /* status.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812C1B259A5C00561211 /* status.h */; };
-		921681841B259A5C00561211 /* table.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812D1B259A5C00561211 /* table.h */; };
-		921681851B259A5C00561211 /* table_builder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812E1B259A5C00561211 /* table_builder.h */; };
-		921681861B259A5C00561211 /* write_batch.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812F1B259A5C00561211 /* write_batch.h */; };
+		921681791B259A5C00561211 /* c.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681221B259A5C00561211 /* c.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817A1B259A5C00561211 /* cache.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681231B259A5C00561211 /* cache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817B1B259A5C00561211 /* comparator.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681241B259A5C00561211 /* comparator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817C1B259A5C00561211 /* db.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681251B259A5C00561211 /* db.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817D1B259A5C00561211 /* dumpfile.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681261B259A5C00561211 /* dumpfile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817E1B259A5C00561211 /* env.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681271B259A5C00561211 /* env.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9216817F1B259A5C00561211 /* filter_policy.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681281B259A5C00561211 /* filter_policy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681801B259A5C00561211 /* iterator.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681291B259A5C00561211 /* iterator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681811B259A5C00561211 /* options.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812A1B259A5C00561211 /* options.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681821B259A5C00561211 /* slice.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812B1B259A5C00561211 /* slice.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681831B259A5C00561211 /* status.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812C1B259A5C00561211 /* status.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681841B259A5C00561211 /* table.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812D1B259A5C00561211 /* table.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681851B259A5C00561211 /* table_builder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812E1B259A5C00561211 /* table_builder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		921681861B259A5C00561211 /* write_batch.h in Headers */ = {isa = PBXBuildFile; fileRef = 9216812F1B259A5C00561211 /* write_batch.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		921681871B259A5C00561211 /* atomic_pointer.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681311B259A5C00561211 /* atomic_pointer.h */; };
 		9216818A1B259A5C00561211 /* port.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681381B259A5C00561211 /* port.h */; };
 		9216818B1B259A5C00561211 /* port_example.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681391B259A5C00561211 /* port_example.h */; };
@@ -102,7 +102,19 @@
 		921681C21B259A5C00561211 /* testharness.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681731B259A5C00561211 /* testharness.h */; };
 		921681C61B259D1B00561211 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 921681C51B259D1B00561211 /* Info.plist */; };
 		921681C81B25B92400561211 /* leveldb.h in Headers */ = {isa = PBXBuildFile; fileRef = 921681C71B25B92400561211 /* leveldb.h */; };
+		921682871B25C1A300561211 /* leveldb_ios_tests.mm in Sources */ = {isa = PBXBuildFile; fileRef = 921682861B25C1A300561211 /* leveldb_ios_tests.mm */; };
+		921682881B25C1A300561211 /* leveldb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9295C9951B2591EA00C388EB /* leveldb.framework */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		921682891B25C1A300561211 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9295C98C1B2591EA00C388EB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9295C9941B2591EA00C388EB;
+			remoteInfo = leveldb;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		921680C41B259A4100561211 /* builder.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = builder.cc; sourceTree = "<group>"; };
@@ -200,10 +212,21 @@
 		921681731B259A5C00561211 /* testharness.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testharness.h; sourceTree = "<group>"; };
 		921681C51B259D1B00561211 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		921681C71B25B92400561211 /* leveldb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = leveldb.h; sourceTree = "<group>"; };
+		921682821B25C1A300561211 /* leveldb-ios-tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "leveldb-ios-tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		921682851B25C1A300561211 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		921682861B25C1A300561211 /* leveldb_ios_tests.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = leveldb_ios_tests.mm; sourceTree = "<group>"; };
 		9295C9951B2591EA00C388EB /* leveldb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = leveldb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		9216827F1B25C1A300561211 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921682881B25C1A300561211 /* leveldb.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9295C9911B2591EA00C388EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -386,10 +409,28 @@
 			path = ../../util;
 			sourceTree = "<group>";
 		};
+		921682831B25C1A300561211 /* leveldb-ios-tests */ = {
+			isa = PBXGroup;
+			children = (
+				921682861B25C1A300561211 /* leveldb_ios_tests.mm */,
+				921682841B25C1A300561211 /* Supporting Files */,
+			);
+			path = "leveldb-ios-tests";
+			sourceTree = "<group>";
+		};
+		921682841B25C1A300561211 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				921682851B25C1A300561211 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		9295C98B1B2591EA00C388EB = {
 			isa = PBXGroup;
 			children = (
 				921680C11B259A3200561211 /* leveldb */,
+				921682831B25C1A300561211 /* leveldb-ios-tests */,
 				9295C9961B2591EA00C388EB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -398,6 +439,7 @@
 			isa = PBXGroup;
 			children = (
 				9295C9951B2591EA00C388EB /* leveldb.framework */,
+				921682821B25C1A300561211 /* leveldb-ios-tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -410,6 +452,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				9216817E1B259A5C00561211 /* env.h in Headers */,
+				921681801B259A5C00561211 /* iterator.h in Headers */,
+				9216817B1B259A5C00561211 /* comparator.h in Headers */,
+				9216817F1B259A5C00561211 /* filter_policy.h in Headers */,
+				921681791B259A5C00561211 /* c.h in Headers */,
+				921681861B259A5C00561211 /* write_batch.h in Headers */,
+				921681811B259A5C00561211 /* options.h in Headers */,
+				9216817A1B259A5C00561211 /* cache.h in Headers */,
+				921681841B259A5C00561211 /* table.h in Headers */,
+				921681831B259A5C00561211 /* status.h in Headers */,
+				9216817C1B259A5C00561211 /* db.h in Headers */,
+				921681851B259A5C00561211 /* table_builder.h in Headers */,
+				921681821B259A5C00561211 /* slice.h in Headers */,
+				9216817D1B259A5C00561211 /* dumpfile.h in Headers */,
 				9216818A1B259A5C00561211 /* port.h in Headers */,
 				921681AF1B259A5C00561211 /* crc32c.h in Headers */,
 				921681B91B259A5C00561211 /* histogram.h in Headers */,
@@ -417,47 +472,34 @@
 				921681091B259A4200561211 /* log_writer.h in Headers */,
 				921681871B259A5C00561211 /* atomic_pointer.h in Headers */,
 				921681C21B259A5C00561211 /* testharness.h in Headers */,
-				921681801B259A5C00561211 /* iterator.h in Headers */,
 				9216810D1B259A4200561211 /* skiplist.h in Headers */,
-				9216817B1B259A5C00561211 /* comparator.h in Headers */,
 				921681A21B259A5C00561211 /* two_level_iterator.h in Headers */,
 				921681A41B259A5C00561211 /* arena.h in Headers */,
 				9216818F1B259A5C00561211 /* thread_annotations.h in Headers */,
-				9216817F1B259A5C00561211 /* filter_policy.h in Headers */,
-				921681791B259A5C00561211 /* c.h in Headers */,
 				921681061B259A4200561211 /* log_reader.h in Headers */,
 				921680F71B259A4200561211 /* db_impl.h in Headers */,
 				921681BB1B259A5C00561211 /* logging.h in Headers */,
 				921680F91B259A4200561211 /* db_iter.h in Headers */,
 				9216810B1B259A4200561211 /* memtable.h in Headers */,
-				921681861B259A5C00561211 /* write_batch.h in Headers */,
-				921681811B259A5C00561211 /* options.h in Headers */,
 				921681771B259A5C00561211 /* memenv.h in Headers */,
 				921681161B259A4200561211 /* version_set.h in Headers */,
-				9216817A1B259A5C00561211 /* cache.h in Headers */,
 				921681961B259A5C00561211 /* filter_block.h in Headers */,
 				921681111B259A4200561211 /* table_cache.h in Headers */,
 				921681041B259A4200561211 /* log_format.h in Headers */,
 				921681921B259A5C00561211 /* block.h in Headers */,
-				921681841B259A5C00561211 /* table.h in Headers */,
 				9216818D1B259A5C00561211 /* port_posix.h in Headers */,
 				921681011B259A4200561211 /* filename.h in Headers */,
 				921681131B259A4200561211 /* version_edit.h in Headers */,
 				921681B61B259A5C00561211 /* hash.h in Headers */,
 				921681191B259A4200561211 /* write_batch_internal.h in Headers */,
-				921681831B259A5C00561211 /* status.h in Headers */,
 				921681C81B25B92400561211 /* leveldb.h in Headers */,
-				9216817C1B259A5C00561211 /* db.h in Headers */,
 				921680F11B259A4200561211 /* builder.h in Headers */,
 				9216810F1B259A4200561211 /* snapshot.h in Headers */,
 				9216819B1B259A5C00561211 /* iterator_wrapper.h in Headers */,
 				9216818B1B259A5C00561211 /* port_example.h in Headers */,
-				921681851B259A5C00561211 /* table_builder.h in Headers */,
-				921681821B259A5C00561211 /* slice.h in Headers */,
 				921681AB1B259A5C00561211 /* coding.h in Headers */,
 				921681941B259A5C00561211 /* block_builder.h in Headers */,
 				921681BE1B259A5C00561211 /* posix_logger.h in Headers */,
-				9216817D1B259A5C00561211 /* dumpfile.h in Headers */,
 				921681BC1B259A5C00561211 /* mutexlock.h in Headers */,
 				921681BF1B259A5C00561211 /* random.h in Headers */,
 				9216819D1B259A5C00561211 /* merger.h in Headers */,
@@ -468,6 +510,24 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		921682811B25C1A300561211 /* leveldb-ios-tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9216828D1B25C1A300561211 /* Build configuration list for PBXNativeTarget "leveldb-ios-tests" */;
+			buildPhases = (
+				9216827E1B25C1A300561211 /* Sources */,
+				9216827F1B25C1A300561211 /* Frameworks */,
+				921682801B25C1A300561211 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9216828A1B25C1A300561211 /* PBXTargetDependency */,
+			);
+			name = "leveldb-ios-tests";
+			productName = "leveldb-ios-tests";
+			productReference = 921682821B25C1A300561211 /* leveldb-ios-tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		9295C9941B2591EA00C388EB /* leveldb */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9295C9AB1B2591EA00C388EB /* Build configuration list for PBXNativeTarget "leveldb" */;
@@ -495,6 +555,9 @@
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = com.google;
 				TargetAttributes = {
+					921682811B25C1A300561211 = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
 					9295C9941B2591EA00C388EB = {
 						CreatedOnToolsVersion = 6.3.1;
 					};
@@ -513,11 +576,19 @@
 			projectRoot = "";
 			targets = (
 				9295C9941B2591EA00C388EB /* leveldb */,
+				921682811B25C1A300561211 /* leveldb-ios-tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		921682801B25C1A300561211 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9295C9931B2591EA00C388EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -529,6 +600,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		9216827E1B25C1A300561211 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921682871B25C1A300561211 /* leveldb_ios_tests.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9295C9901B2591EA00C388EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -579,7 +658,45 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		9216828A1B25C1A300561211 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9295C9941B2591EA00C388EB /* leveldb */;
+			targetProxy = 921682891B25C1A300561211 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		9216828B1B25C1A300561211 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "leveldb-ios-tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9216828C1B25C1A300561211 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "leveldb-ios-tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		9295C9A91B2591EA00C388EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -719,6 +836,14 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		9216828D1B25C1A300561211 /* Build configuration list for PBXNativeTarget "leveldb-ios-tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9216828B1B25C1A300561211 /* Debug */,
+				9216828C1B25C1A300561211 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		9295C98F1B2591EA00C388EB /* Build configuration list for PBXProject "leveldb" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
